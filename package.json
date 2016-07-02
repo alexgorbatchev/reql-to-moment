@@ -1,6 +1,6 @@
 {
   "name": "reql-to-moment",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A helper function to convert raw ReQL time object to moment.js preserving time zone information. This is useful for reading raw time objects from RethinkDB.",
   "main": "index.js",
   "files": [
